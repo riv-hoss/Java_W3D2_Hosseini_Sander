@@ -1,4 +1,6 @@
-package Amin;
+package Amin.A1;
+
+import Amin.A1.Author;
 
 public class TestAuthor {
     public static void main(String[] args) {
